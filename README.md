@@ -1,8 +1,8 @@
 # Text_Encode_and_Decode
 Rail Fence Cipher
 
-This project/ implementation is neigther the fastest nor the safest way to code Rail Fence Cypher. 
-My aim was to implement a readable and easy to understand mathmetical manipulation approch.
+This project/ implementation might not be the best way, 
+My aim was to implement a readable and easy to understand mathmetical manipulation approch of Rail Fence Cypher.
 
 Project structure:
 
