@@ -2,7 +2,7 @@
 Rail Fence Cipher
 
 This project/ implementation might not be the best way, 
-My aim was to implement a readable and easy to understand mathmetical manipulation approch of Rail Fence Cypher.
+My aim was to implement a readable and easy to understand Rail Fence Cypher using mathmetical manipulation approch.
 
 Project structure:
 
